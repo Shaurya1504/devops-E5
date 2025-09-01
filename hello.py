@@ -1,1 +1,1 @@
-print("Hello, Jenkins! This is a continuous integration test.")
+print("Hello, Jenkins! This is a continuous integration test part 2.")
