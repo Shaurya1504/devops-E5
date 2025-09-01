@@ -1,1 +1,1 @@
-print("Hello, Jenkins and GitHub!")
+print("Hello, Jenkins! This is a continuous integration test.")
